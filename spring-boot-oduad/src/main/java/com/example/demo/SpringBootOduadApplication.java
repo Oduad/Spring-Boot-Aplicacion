@@ -8,6 +8,6 @@ public class SpringBootOduadApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootOduadApplication.class, args);
-		System.out.println("");
+		System.out.println(" ");
 	}
 }
